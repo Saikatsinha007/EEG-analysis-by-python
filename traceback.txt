@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\EJ312WS\OneDrive\Desktop\eeg eishita di\app.py", line 2670, in <module>
+    main()
+  File "C:\Users\EJ312WS\OneDrive\Desktop\eeg eishita di\app.py", line 889, in main
+    create_clinical_dashboard_tab(analyzer)
+  File "C:\Users\EJ312WS\OneDrive\Desktop\eeg eishita di\app.py", line 943, in create_clinical_dashboard_tab
+    metrics = analyzer.compute_advanced_metrics()
+  File "C:\Users\EJ312WS\OneDrive\Desktop\eeg eishita di\app.py", line 611, in compute_advanced_metrics
+    'sample_entropy': ant.sample_entropy(data) if len(data) > 100 else 0,
+  File "C:\Users\EJ312WS\AppData\Local\Programs\Python\Python310\lib\site-packages\antropy\entropy.py", line 667, in sample_entropy
+    phi = _app_samp_entropy(x, order=order, metric=metric, approximate=False)
+  File "C:\Users\EJ312WS\AppData\Local\Programs\Python\Python310\lib\site-packages\antropy\entropy.py", line 376, in _app_samp_entropy
+    if metric not in _all_metrics:
+TypeError: argument of type 'builtin_function_or_method' is not iterable

@@ -3,7 +3,15 @@
 
 **NeuroVision EEG Pro** is an advanced, medical-grade application designed to bridge the gap between raw EEG data and actionable clinical insights. Built for neurologists, researchers, and data scientists, it combines powerful signal processing algorithms with an intuitive, interactive interface to assist in the interpretation of electroencephalography (EEG) recordings.
 
----
+---<img width="1801" height="838" alt="Screenshot 2026-01-06 155900" src="https://github.com/user-attachments/assets/2eaa0083-ef8d-42ec-b454-9f4bd139403d" />
+<img width="1509" height="822" alt="Screenshot 2026-01-06 160013" src="https://github.com/user-attachments/assets/919db287-1c02-4875-a54a-575d3e56b489" />
+<img width="1911" height="871" alt="Screenshot 2026-01-06 160058" src="https://github.com/user-attachments/assets/23a0a3b6-195b-4113-8d20-4b21602ad7d3" />
+<img width="1656" height="783" alt="Screenshot 2026-01-06 160123" src="https://github.com/user-attachments/assets/6329f8f9-22e6-4d13-88a8-aba6f113bfe9" />
+<img width="1679" height="754" alt="Screenshot 2026-01-06 160247" src="https://github.com/user-attachments/assets/e34d4b44-8a71-455e-85f8-3c1dcae37589" />
+<img width="1681" height="569" alt="Screenshot 2026-01-06 160409" src="https://github.com/user-attachments/assets/c34a1214-bcfa-4d6d-8832-a41b607f4521" />
+<img width="1672" height="823" alt="Screenshot 2026-01-06 160425" src="https://github.com/user-attachments/assets/098a6933-8cf3-4a68-a221-37110480c45f" />
+<img width="1650" height="743" alt="Screenshot 2026-01-06 160449" src="https://github.com/user-attachments/assets/7133397d-450d-42c0-9c80-e4858031e722" />
+
 
 ## 🏥 For Medical Professionals & Clinicians
 

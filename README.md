@@ -9,8 +9,9 @@ Clinical Dashboard
 
 
 
+
 EEG Viewer Interface
-<img src="https://github.com/user-attachments/assets/919db287-1c02-4875-a54a-375d3e56b489" width="600" alt="EEG Viewer">
+<img width="600"  alt="Screenshot 2026-01-06 160058" src="https://github.com/user-attachments/assets/9e47d1c8-54d7-444e-a40a-b29996523678" />
 
 
 
